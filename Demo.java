@@ -4,3 +4,4 @@ public interface Demo {
 public
 private
 protected
+private
